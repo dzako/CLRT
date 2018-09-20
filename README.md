@@ -1,4 +1,4 @@
-# Prototype Installation of CLRT (Continuous Time Lagrangian Reachability)
+# Prototype Implementation of CLRT (Continuous Time Lagrangian Reachability)
 Authors: Md Ariful Islam and Jacek Cyranka
 
 Contact: ariful.islam@ttu.edu
