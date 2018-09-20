@@ -1,8 +1,7 @@
-# CLRT
-# Source code for Continuous Time Lagrangian Reachability
-#
+# Prototype Installation of Continuous Time Lagrangian Reachability
+# Developed by: Md Ariful Islam and Jacek Cyranka
 
-Installation:
+#Installation
 Dependency: 
 GiNac, CAPD, NLOPT and Eigen Package
 
