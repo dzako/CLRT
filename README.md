@@ -34,7 +34,8 @@ Usage
 =====
 
 The command line is as follows:
- mainCLRT <model_name> <Time_horizon> <ist_th> <norm_th> <delta>
+ 
+    mainCLRT <model_name> <Time_horizon> <ist_th> <norm_th> <delta>
  
  where:
  
