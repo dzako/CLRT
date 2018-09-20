@@ -46,7 +46,7 @@ The command line is as follows:
 - Example run: ./mainCLRT bruss 5 0.02 0.001 1e-5
 
 The output will be stored in following two files in a directory named outputs:
-- dset_model_ist_th_norm_th.txt: contains the discrete reachset (time, center, radius, norm)
-- cset_model_ist_th_norm_th.txt: contains the continuous reachset (time-interval, center, radius, norm)
+- dset_<model>_<ist_th>_<norm_th>.txt: contains the discrete reachset (time, center, radius, norm)
+- cset_<model>_<ist_th>_<norm_th>.txt: contains the continuous reachset (time-interval, center, radius, norm)
        
 
