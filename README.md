@@ -43,6 +43,7 @@ The command line is as follows:
 - TIME_horizon > 0 : Total computation duration
 - <ist_th> (Optional): Threshold for IST in (0,1) with default value 0.01
 - <norm_th> (Optional): Threshold for norm change (0, 0.1) with default value 0.001
+- <delta> (Optional): delta value for dReal with default value 1e-3
 - Example run: ./mainCLRT bruss 5 0.02 0.001 1e-5
 
 The output will be stored in following two files in a directory named outputs:
