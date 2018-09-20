@@ -27,8 +27,8 @@ Required Packages
 Compile
 -------
 
- cd <src_dir>
- make
+    cd <src_dir>
+    make
 
 Usage
 =====
