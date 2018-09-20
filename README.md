@@ -1,5 +1,6 @@
 # Prototype Installation of Continuous Time Lagrangian Reachability
-Developers: Md Ariful Islam and Jacek Cyranka
+*Authors: Md Ariful Islam and Jacek Cyranks
+*Contact: ariful.islam@ttu.edu
 
 #Installation
 Dependency: 
