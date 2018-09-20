@@ -1,7 +1,7 @@
 /* 
  *Lagrangian Reachtube Computations
- *Authors: Md Ariful Islam
- *Contact: mdarifui@andrew.cmu.edu
+ *Authors: Md Ariful Islam and Jacek Cyranks
+ *Contact: ariful.islam@ttu.edu
  */
 
 /* Standard C++ library*/
