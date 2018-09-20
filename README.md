@@ -17,6 +17,7 @@ Required Packages
  - [Eigen Package]
 
 [GiNac]: https://ginac.de/
+[CPAD]: http://capd.sourceforge.net/capdDynSys/
 [Boost]: http://www.boost.org/
 [dReal]: http://dreal.cs.cmu.edu
 [NLOPT]: https://nlopt.readthedocs.io/
